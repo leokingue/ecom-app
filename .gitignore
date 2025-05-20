@@ -1,0 +1,3 @@
+./services/config-server/target
+./services/discovery/target
+.idea/
